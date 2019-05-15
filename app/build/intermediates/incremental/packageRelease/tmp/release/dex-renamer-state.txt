@@ -1,0 +1,4 @@
+#Wed May 15 17:18:18 CST 2019
+base.0=F\:\\BaiduLoc_AndroidSDK_v7.6_All\\BaiduLocDemo\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:2:1-67:12
+	package
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:2:1-67:12
+		INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:2:1-67:12
+		INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:5:5-6:23
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:7:5-8:23
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:9:5-10:23
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:11:5-12:23
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:13:5-14:23
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:15:5-16:23
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:17:5-18:23
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.INTERNET
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:19:5-20:23
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:21:5-22:23
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:21:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:23:5-24:23
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:23:22-65
+application
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:26:5-65:19
+	android:label
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:30:9-41
+	android:icon
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:29:9-45
+	android:allowBackup
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:31:9-51
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:27:9-67
+service#com.baidu.location.f
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:34:9-38:19
+	android:process
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:37:13-38
+	android:enabled
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:36:13-35
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:35:13-48
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:42:9-44:56
+	android:value
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:44:13-53
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:43:13-52
+activity#com.baidu.location.demo.MainActivity
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:46:9-54:20
+	android:label
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:48:13-45
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:47:13-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:52:27-74
+activity#com.baidu.location.demo.LocationActivity
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:55:9-56:20
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:55:19-74
+activity#com.baidu.location.demo.LocationOption
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:57:9-84
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:57:19-72
+activity#com.baidu.location.demo.LocationFilter
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:58:9-84
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:58:19-72
+activity#com.baidu.location.demo.NotifyActivity
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:59:9-84
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:59:19-72
+activity#com.baidu.location.demo.QuestActivity
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:60:9-83
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:60:19-71
+activity#com.baidu.location.demo.LocationAutoNotify
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:61:9-88
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:61:19-76
+activity#com.baidu.location.demo.IndoorLocationActivity
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:62:9-92
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:62:19-80
+activity#com.baidu.location.demo.ForegroundActivity
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:63:9-88
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:63:19-76
+activity#com.baidu.location.demo.IsHotWifiActivity
+ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:64:9-87
+	android:name
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml:64:19-75
+uses-sdk
+INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml
+INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml
+INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml
+INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml
+		ADDED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\BaiduLoc_AndroidSDK_v7.6_All\BaiduLocDemo\app\src\main\AndroidManifest.xml
